@@ -1,0 +1,132 @@
+{
+  "checked_at": "2026-10-26",
+  "candidate_notes": 1561,
+  "reviewed_notes": 1561,
+  "content_verified": 959,
+  "excluded": 602,
+  "release_approved": 959,
+  "publisher_current_catalog_confirmed": true,
+  "publisher_books": [
+    {
+      "id": "1443001133201",
+      "title": "普通高中教科书生物学选择性必修3生物技术与工程",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906607141349382.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001133201/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "选择性必修",
+      "cc": "第三册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001132201",
+      "title": "普通高中教科书生物学选择性必修2生物与环境",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606947176049.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001132201/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "选择性必修",
+      "cc": "第二册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001131201",
+      "title": "普通高中教科书生物学选择性必修1稳态与调节",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606736355486.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001131201/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "选择性必修",
+      "cc": "第一册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001112191",
+      "title": "普通高中教科书生物学必修2遗传与进化",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606494537532.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001112191/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "必修",
+      "cc": "第二册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001111191",
+      "title": "普通高中教科书生物学必修1分子与细胞",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606275919950.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001111191/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "必修",
+      "cc": "第一册",
+      "xdtype": "高中",
+      "ptzy": ""
+    }
+  ],
+  "blocker": null,
+  "completed_this_turn": [
+    "按用户定位继续做记忆App界面，未新增应用练习",
+    "五册书架统一使用教材PDF真实封面；新增搜索和分类",
+    "对照不背单词完善我的学习/学习偏好、分组卡片、日历、收藏及个人页",
+    "参考不背古文实现弹层上滑500ms下滑460ms、页面与记忆卡切换、答案展开；三种配色/字号/简洁模式/动画开关持久保存",
+    "1121张卡与十二条路由真机验证通过，已目视检查书架、章节详情、偏好及弹层；测试记录恢复",
+    "0.6.0 versionCode=11已覆盖安装；手机亮屏超时恢复3600000毫秒",
+    "全部APK移入仓库外不背生物-APK目录，Git忽略APK/工具/签名/私有资料，已初始化独立Git仓库"
+  ],
+  "checks": [
+    "reviewed, anki_core, fsrs passed",
+    "Android 1121-card rendering, images, width, reveal and FSRS passed",
+    "UI: five covers, search/filter, twelve routes, 500ms entrance, prefs persistence, records preserved, motion disabled passed",
+    "APK 1121 approved card set and five exact cover assets verified"
+  ],
+  "phone_changed": true,
+  "new_release_apk": true,
+  "next_steps": [
+    "继续完善细节交互；当前不新增应用练习"
+  ],
+  "fsrs": {
+    "algorithm": "FSRS-6",
+    "implementation": "ts-fsrs@5.4.2",
+    "target_retention": 0.9,
+    "checks": [
+      "official-library equivalence for all four ratings",
+      "delayed reviews",
+      "JSON restart",
+      "legacy migration without fabricated reviews",
+      "Android WebView runtime"
+    ],
+    "device_result": "v5.4.2 using FSRS-6.0",
+    "qa_apk": "../不背生物-APK/bubei-biology-0.6.0-qa.apk",
+    "formal_app_changed": true,
+    "remaining": null
+  },
+  "pending_notes": 0,
+  "approved_cards": 1121,
+  "latest_official_ebooks_confirmed": true,
+  "release_version": "0.6.0",
+  "release_apk": "../不背生物-APK/bubei-biology-0.6.0.apk",
+  "release_sha256": "e49b2435766f15b050d363d02f6697fd230ab4a3149210aeb3872dfcbaea9fef",
+  "show_textbook_evidence_in_ui": false,
+  "visual_validation": "已目视检查Android截图：书架、章节详情、首页、学习偏好、弹层，未见横向溢出或遮挡。",
+  "community_candidate_notes": 1474,
+  "supplemental_notes": 87,
+  "github_repository": "https://github.com/miaojulin2-byte/bubei-biology",
+  "repository_visibility": "private",
+  "apk_directory": "../不背生物-APK",
+  "apk_excluded_from_git": true
+}

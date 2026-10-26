@@ -1,0 +1,50 @@
+const vm=require('node:vm'),fs=require('node:fs'),assert=require('node:assert/strict');
+const memory=new Map();let fail=false;
+const element={innerHTML:'',style:{},textContent:''};
+const context=vm.createContext({localStorage:{getItem:k=>memory.get(k)||null,setItem:(k,v)=>{if(fail)throw Error('disk full');memory.set(k,v)}},document:{querySelector:()=>element,addEventListener(){}},window:{scrollTo(){}},setTimeout(){},clearTimeout(){}});
+for(const f of ['vendor/ts-fsrs-5.4.2.js','scheduler.js','anki-core.js','design.js','reviewed-data.js','ui.js','views.js','store.js','reviewed.js'])vm.runInContext(fs.readFileSync('build/reviewed-assets/'+f,'utf8'),context);
+const run=s=>vm.runInContext(s,context);
+run("start('learn')");assert.ok(run('state.session.ids.length')>0);assert.equal(run('new Set(state.session.ids.map(id=>byId(id).note_id)).size'),run('state.session.ids.length'));
+run("actions.reveal();change(s=>AnkiCore.rate(s.session,s,'good'))");
+assert.equal(run('state.attempts.length'),1);assert.equal(run('state.records[state.session.ids[0]].scheduler'),'FSRS-6');
+run("change(s=>AnkiCore.rate(s.session,s,'easy'))");assert.equal(run('state.attempts.length'),1,'duplicate rating ignored');
+run('state=ReviewedStore.load()');assert.equal(run('state.session.rated'),true,'resumes rated card');
+const before=run('JSON.stringify(state)');fail=true;assert.throws(()=>run('change(s=>{s.goal=20})'));assert.equal(run('JSON.stringify(state)'),before,'failed save cannot change in-memory state');fail=false;
+run('state=ReviewedStore.merge(state,JSON.parse(JSON.stringify(state)))');assert.equal(run('state.attempts.length'),1,'backup merge idempotent');
+assert.throws(()=>run("ReviewedStore.validate({...state,records:{bad:{due:0}}})"));
+assert.throws(()=>run("ReviewedStore.validate({...state,session:{...state.session,pos:999}})"));
+run("actions.next();actions.reveal();change(s=>AnkiCore.rate(s.session,s,'again'))");assert.equal(run('state.attempts.length'),2);
+for(const route of ['home','books','chapter','study','collection','stats','settings']){run(`page='${route}';render()`);assert.ok(element.innerHTML.length>50,route)}
+run("selected=cards[0].id;page='detail';render()");assert.ok(!element.innerHTML.includes('教材核对依据')); assert.ok(element.innerHTML.includes('卡片详情'));
+assert.equal(run('cards.length'),JSON.parse(fs.readFileSync('private-content/reviewed-deck.json')).cards.length);assert.equal(run("cards.some(c=>!REVIEWED.evidence[c.id]?.length)"),false);
+console.log('PASS: approved-only routes, FSRS ratings, sibling separation, resume, duplicate protection, backup merge, invalid imports, atomic storage failure');
+run('state=ReviewedStore.empty();state.ranges[0]=[]');assert.equal(run('unseen().length'),0,'empty range means no new cards');
+run('state.ranges[0]=[cards.find(c=>c.book===0).chapter]');assert.equal(run('unseen().every(c=>state.ranges[0].includes(c.chapter))'),true);
+run('state.ranges={};state.reviewLimit=5;state.session=null;for(const c of cards.slice(0,20))state.records[c.id]=BioScheduler.grade(null,"good",Date.now()-86400000).record;start("review")');assert.ok(run('state.session.ids.length')<=5,'review group limit');assert.equal(run('new Set(state.session.ids.map(id=>byId(id).note_id)).size'),run('state.session.ids.length'),'review siblings separated');
+run('state.ranges[0]=[]');assert.ok(run('reviewQueue().length')>0,'chapter range never hides due reviews');
+run('const older=ReviewedStore.empty();delete older.ranges;delete older.reviewLimit;localStorage.setItem(ReviewedStore.key,JSON.stringify(older));state=ReviewedStore.load()');assert.equal(run('state.reviewLimit'),20,'old backup gets default group size');assert.equal(run('Object.keys(state.ranges).length'),0);
+assert.throws(()=>run('ReviewedStore.validate({...state,reviewLimit:999})'));
+assert.throws(()=>run('ReviewedStore.validate({...state,ranges:{0:[999]}})'));
+console.log('PASS: chapter scope including none, due-review scope independence, group limits, sibling review avoidance, settings migration');
+run('state=ReviewedStore.empty();start("learn");AnkiCore.reveal(state.session,state);change(s=>AnkiCore.rate(s.session,s,"good"))');
+const savedRecord=run('JSON.stringify(state.records)'),savedAttempts=run('JSON.stringify(state.attempts)');
+for(let book=1;book<5;book++){
+ run(`change(s=>{s.book=${book}});start('learn')`);
+ assert.equal(run(`state.session.ids.every(id=>byId(id).book===${book})`),true,'new session uses selected textbook');
+ assert.equal(run('JSON.stringify(state.records)'),savedRecord,'switch preserves FSRS');
+ assert.equal(run('JSON.stringify(state.attempts)'),savedAttempts,'switch preserves ratings');
+}
+run('page="home";render()');assert.ok(!element.innerHTML.includes('选择教材'));assert.ok(element.innerHTML.includes('aria-label="知识书"'));assert.ok(!element.innerHTML.includes('继续上次'));
+run('state.goal=5;state.attempts=cards.filter(c=>c.book===4).slice(0,5).map(c=>({id:c.id,kind:"learn",rating:"good",at:Date.now()}));state.book=0;start("learn")');
+assert.equal(run('state.session.ids.every(id=>byId(id).book===0)'),true,'daily progress cannot block textbook switching');
+console.log('PASS: free textbook switching during unfinished sessions preserves ratings and FSRS, no resume prompt');
+run('state=ReviewedStore.empty();setUi("theme","sage");setUi("textSize",1.2);setUi("compact",true);setUi("motion",false);state=ReviewedStore.load()');
+assert.equal(run('state.ui.theme'),'sage');assert.equal(run('state.ui.textSize'),1.2);assert.equal(run('state.ui.compact'),true);assert.equal(run('state.ui.motion'),false);
+run('const beforeUi=JSON.stringify(state.ui);state=ReviewedStore.merge(state,{...ReviewedStore.empty(),ui:{...UI_DEFAULTS,theme:"sand"}})');assert.equal(run('JSON.stringify(state.ui)'),run('beforeUi'),'import preserves selected UI preferences');
+run('const preUi=ReviewedStore.empty();delete preUi.ui;localStorage.setItem(ReviewedStore.key,JSON.stringify(preUi));state=ReviewedStore.load()');assert.equal(run('state.ui.theme'),'rose','older records gain UI defaults');
+assert.throws(()=>run('ReviewedStore.validate({...state,ui:{...UI_DEFAULTS,textSize:9}})'));
+assert.throws(()=>run('ReviewedStore.validate({...state,ui:{...UI_DEFAULTS,motion:"yes"}})'));
+for(const route of ['more','appearance','calendar','profile','about']){run(`page='${route}';render()`);assert.ok(element.innerHTML.length>100,route)}
+run('bookQuery="遗传";bookFilter="all";page="books";render()');assert.ok(element.innerHTML.includes('covers/b2.jpg'));assert.ok(!element.innerHTML.includes('covers/b1.jpg'));
+run('bookQuery="";bookFilter="optional";render()');assert.ok(element.innerHTML.includes('covers/x1.jpg'));assert.ok(!element.innerHTML.includes('covers/b2.jpg'));run('bookFilter="all"');
+console.log('PASS: UI preference persistence/migration, backup preference isolation, invalid UI values, new routes, textbook search/filter');

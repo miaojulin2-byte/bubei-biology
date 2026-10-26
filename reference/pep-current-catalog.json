@@ -1,0 +1,78 @@
+{
+  "source": "https://jc.pep.com.cn/",
+  "checked_at": "2026-10-26",
+  "script": "https://jc.pep.com.cn/js/chunk-bfbdf2c4.b4dfb5d3.js",
+  "books": [
+    {
+      "id": "1443001133201",
+      "title": "普通高中教科书生物学选择性必修3生物技术与工程",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906607141349382.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001133201/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "选择性必修",
+      "cc": "第三册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001132201",
+      "title": "普通高中教科书生物学选择性必修2生物与环境",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606947176049.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001132201/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "选择性必修",
+      "cc": "第二册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001131201",
+      "title": "普通高中教科书生物学选择性必修1稳态与调节",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606736355486.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001131201/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "选择性必修",
+      "cc": "第一册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001112191",
+      "title": "普通高中教科书生物学必修2遗传与进化",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606494537532.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001112191/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "必修",
+      "cc": "第二册",
+      "xdtype": "高中",
+      "ptzy": ""
+    },
+    {
+      "id": "1443001111191",
+      "title": "普通高中教科书生物学必修1分子与细胞",
+      "thumb": "https://jc.pep.com.cn/xsys/swx/202210/W020240906606275919950.jpg",
+      "pdfurl": "https://book.pep.com.cn/1443001111191/",
+      "dzjcurl": "",
+      "sydx": "学生",
+      "xd": "高中",
+      "xk": "生物学",
+      "nj": "必修",
+      "cc": "第一册",
+      "xdtype": "高中",
+      "ptzy": ""
+    }
+  ],
+  "script_sha256": "a7205001f6374c90ed0a21152ad3f8ba0d2af11a08bb8f9090cc2cfea0fa3921"
+}

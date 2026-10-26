@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-26",
+  "candidate_notes": 1561,
+  "community_candidate_notes": 1474,
+  "supplemental_notes": 87,
+  "reviewed_notes": 1561,
+  "approved_notes": 959,
+  "approved_cards": 1121,
+  "excluded_reviewed_notes": 602,
+  "pending_notes": 0,
+  "cards_by_book": {
+    "4": 215,
+    "0": 239,
+    "1": 200,
+    "2": 306,
+    "3": 161
+  },
+  "reviewed_deck_sha256": "0dbc01f3cf16bfd7afabbee8a4fd04804acf4d342cf3437cc465fa82df40eaa0",
+  "release_sha256": "e49b2435766f15b050d363d02f6697fd230ab4a3149210aeb3872dfcbaea9fef",
+  "show_textbook_evidence_in_ui": false,
+  "device_rendered_cards": 1121,
+  "textbook_switching_verified": true,
+  "old_card_ids_preserved": 1034,
+  "chapter_corrections": 6,
+  "release_version": "0.6.0",
+  "real_textbook_covers": 5,
+  "ui_routes_verified": 12
+}

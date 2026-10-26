@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-26",
+  "candidate_notes": 1474,
+  "reviewed_notes": 1474,
+  "approved_notes": 872,
+  "excluded_notes": 602,
+  "pending_notes": 0,
+  "approved_cards": 1034,
+  "reviewer": "AI逐条核对，非教师认证",
+  "scope": "当前社区卡组全部候选已完成准入审核；不表示涵盖所有教材考点。",
+  "excluded_meaning": "排除包含内容与教材不符、上下文或证据不足、以及不支持的格式，不能全部解释为事实错误。",
+  "by_book": [
+    {
+      "book": 0,
+      "reviewed": 439,
+      "approved_notes": 211,
+      "cards": 220
+    },
+    {
+      "book": 1,
+      "reviewed": 206,
+      "approved_notes": 144,
+      "cards": 184
+    },
+    {
+      "book": 2,
+      "reviewed": 271,
+      "approved_notes": 218,
+      "cards": 286
+    },
+    {
+      "book": 3,
+      "reviewed": 146,
+      "approved_notes": 103,
+      "cards": 145
+    },
+    {
+      "book": 4,
+      "reviewed": 408,
+      "approved_notes": 196,
+      "cards": 199
+    }
+  ],
+  "prior_cards_preserved": 334
+}

@@ -1,0 +1,635 @@
+{
+  "checked_at": "2026-10-26",
+  "scope": "教材目录中的正文节；节下分项及探究栏目另在覆盖报告中列出",
+  "books": [
+    {
+      "book": 0,
+      "key": "b1",
+      "toc_pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "细胞是生命活动的基本单位",
+          "printed_page": 2,
+          "pdf_page": 11
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "细胞的多样性和统一性",
+          "printed_page": 9,
+          "pdf_page": 18
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "细胞中的元素和化合物",
+          "printed_page": 16,
+          "pdf_page": 25
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "细胞中的无机物",
+          "printed_page": 20,
+          "pdf_page": 29
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "细胞中的糖类和脂质",
+          "printed_page": 23,
+          "pdf_page": 32
+        },
+        {
+          "chapter": 2,
+          "section": 4,
+          "title": "蛋白质是生命活动的主要承担者",
+          "printed_page": 28,
+          "pdf_page": 37
+        },
+        {
+          "chapter": 2,
+          "section": 5,
+          "title": "核酸是遗传信息的携带者",
+          "printed_page": 34,
+          "pdf_page": 43
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "细胞膜的结构和功能",
+          "printed_page": 40,
+          "pdf_page": 49
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "细胞器之间的分工合作",
+          "printed_page": 47,
+          "pdf_page": 56
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "细胞核的结构和功能",
+          "printed_page": 54,
+          "pdf_page": 63
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "被动运输",
+          "printed_page": 62,
+          "pdf_page": 71
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "主动运输与胞吞、胞吐",
+          "printed_page": 69,
+          "pdf_page": 78
+        },
+        {
+          "chapter": 5,
+          "section": 1,
+          "title": "降低化学反应活化能的酶",
+          "printed_page": 76,
+          "pdf_page": 85
+        },
+        {
+          "chapter": 5,
+          "section": 2,
+          "title": "细胞的能量“货币”ATP",
+          "printed_page": 86,
+          "pdf_page": 95
+        },
+        {
+          "chapter": 5,
+          "section": 3,
+          "title": "细胞呼吸的原理和应用",
+          "printed_page": 90,
+          "pdf_page": 99
+        },
+        {
+          "chapter": 5,
+          "section": 4,
+          "title": "光合作用与能量转化",
+          "printed_page": 97,
+          "pdf_page": 106
+        },
+        {
+          "chapter": 6,
+          "section": 1,
+          "title": "细胞的增殖",
+          "printed_page": 110,
+          "pdf_page": 119
+        },
+        {
+          "chapter": 6,
+          "section": 2,
+          "title": "细胞的分化",
+          "printed_page": 118,
+          "pdf_page": 127
+        },
+        {
+          "chapter": 6,
+          "section": 3,
+          "title": "细胞的衰老和死亡",
+          "printed_page": 123,
+          "pdf_page": 132
+        }
+      ]
+    },
+    {
+      "book": 1,
+      "key": "b2",
+      "toc_pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "孟德尔的豌豆杂交实验（一）",
+          "printed_page": 2,
+          "pdf_page": 11
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "孟德尔的豌豆杂交实验（二）",
+          "printed_page": 9,
+          "pdf_page": 18
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "减数分裂和受精作用",
+          "printed_page": 18,
+          "pdf_page": 27
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "基因在染色体上",
+          "printed_page": 29,
+          "pdf_page": 38
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "伴性遗传",
+          "printed_page": 34,
+          "pdf_page": 43
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "DNA是主要的遗传物质",
+          "printed_page": 42,
+          "pdf_page": 51
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "DNA的结构",
+          "printed_page": 48,
+          "pdf_page": 57
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "DNA的复制",
+          "printed_page": 53,
+          "pdf_page": 62
+        },
+        {
+          "chapter": 3,
+          "section": 4,
+          "title": "基因通常是有遗传效应的DNA片段",
+          "printed_page": 57,
+          "pdf_page": 66
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "基因指导蛋白质的合成",
+          "printed_page": 64,
+          "pdf_page": 73
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "基因表达与性状的关系",
+          "printed_page": 71,
+          "pdf_page": 80
+        },
+        {
+          "chapter": 5,
+          "section": 1,
+          "title": "基因突变和基因重组",
+          "printed_page": 80,
+          "pdf_page": 89
+        },
+        {
+          "chapter": 5,
+          "section": 2,
+          "title": "染色体变异",
+          "printed_page": 87,
+          "pdf_page": 96
+        },
+        {
+          "chapter": 5,
+          "section": 3,
+          "title": "人类遗传病",
+          "printed_page": 92,
+          "pdf_page": 101
+        },
+        {
+          "chapter": 6,
+          "section": 1,
+          "title": "生物有共同祖先的证据",
+          "printed_page": 100,
+          "pdf_page": 109
+        },
+        {
+          "chapter": 6,
+          "section": 2,
+          "title": "自然选择与适应的形成",
+          "printed_page": 106,
+          "pdf_page": 115
+        },
+        {
+          "chapter": 6,
+          "section": 3,
+          "title": "种群基因组成的变化与物种的形成",
+          "printed_page": 110,
+          "pdf_page": 119
+        },
+        {
+          "chapter": 6,
+          "section": 4,
+          "title": "协同进化与生物多样性的形成",
+          "printed_page": 119,
+          "pdf_page": 128
+        }
+      ]
+    },
+    {
+      "book": 2,
+      "key": "x1",
+      "toc_pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "细胞生活的环境",
+          "printed_page": 2,
+          "pdf_page": 11
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "内环境的稳态",
+          "printed_page": 7,
+          "pdf_page": 16
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "神经调节的结构基础",
+          "printed_page": 16,
+          "pdf_page": 25
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "神经调节的基本方式",
+          "printed_page": 22,
+          "pdf_page": 31
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "神经冲动的产生和传导",
+          "printed_page": 27,
+          "pdf_page": 36
+        },
+        {
+          "chapter": 2,
+          "section": 4,
+          "title": "神经系统的分级调节",
+          "printed_page": 33,
+          "pdf_page": 42
+        },
+        {
+          "chapter": 2,
+          "section": 5,
+          "title": "人脑的高级功能",
+          "printed_page": 37,
+          "pdf_page": 46
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "激素与内分泌系统",
+          "printed_page": 44,
+          "pdf_page": 53
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "激素调节的过程",
+          "printed_page": 50,
+          "pdf_page": 59
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "体液调节与神经调节的关系",
+          "printed_page": 57,
+          "pdf_page": 66
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "免疫系统的组成和功能",
+          "printed_page": 66,
+          "pdf_page": 75
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "特异性免疫",
+          "printed_page": 71,
+          "pdf_page": 80
+        },
+        {
+          "chapter": 4,
+          "section": 3,
+          "title": "免疫失调",
+          "printed_page": 77,
+          "pdf_page": 86
+        },
+        {
+          "chapter": 4,
+          "section": 4,
+          "title": "免疫学的应用",
+          "printed_page": 82,
+          "pdf_page": 91
+        },
+        {
+          "chapter": 5,
+          "section": 1,
+          "title": "植物生长素",
+          "printed_page": 90,
+          "pdf_page": 99
+        },
+        {
+          "chapter": 5,
+          "section": 2,
+          "title": "其他植物激素",
+          "printed_page": 96,
+          "pdf_page": 105
+        },
+        {
+          "chapter": 5,
+          "section": 3,
+          "title": "植物生长调节剂的应用",
+          "printed_page": 100,
+          "pdf_page": 109
+        },
+        {
+          "chapter": 5,
+          "section": 4,
+          "title": "环境因素参与调节植物的生命活动",
+          "printed_page": 105,
+          "pdf_page": 114
+        }
+      ]
+    },
+    {
+      "book": 3,
+      "key": "x2",
+      "toc_pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "种群的数量特征",
+          "printed_page": 2,
+          "pdf_page": 11
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "种群数量的变化",
+          "printed_page": 7,
+          "pdf_page": 16
+        },
+        {
+          "chapter": 1,
+          "section": 3,
+          "title": "影响种群数量变化的因素",
+          "printed_page": 13,
+          "pdf_page": 22
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "群落的结构",
+          "printed_page": 22,
+          "pdf_page": 31
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "群落的主要类型",
+          "printed_page": 33,
+          "pdf_page": 42
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "群落的演替",
+          "printed_page": 38,
+          "pdf_page": 47
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "生态系统的结构",
+          "printed_page": 48,
+          "pdf_page": 57
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "生态系统的能量流动",
+          "printed_page": 54,
+          "pdf_page": 63
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "生态系统的物质循环",
+          "printed_page": 61,
+          "pdf_page": 70
+        },
+        {
+          "chapter": 3,
+          "section": 4,
+          "title": "生态系统的信息传递",
+          "printed_page": 68,
+          "pdf_page": 77
+        },
+        {
+          "chapter": 3,
+          "section": 5,
+          "title": "生态系统的稳定性",
+          "printed_page": 73,
+          "pdf_page": 82
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "人类活动对生态环境的影响",
+          "printed_page": 82,
+          "pdf_page": 91
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "生物多样性及其保护",
+          "printed_page": 90,
+          "pdf_page": 99
+        },
+        {
+          "chapter": 4,
+          "section": 3,
+          "title": "生态工程",
+          "printed_page": 98,
+          "pdf_page": 107
+        }
+      ]
+    },
+    {
+      "book": 4,
+      "key": "x3",
+      "toc_pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "传统发酵技术的应用",
+          "printed_page": 4,
+          "pdf_page": 13
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "微生物的培养技术及应用",
+          "printed_page": 9,
+          "pdf_page": 18
+        },
+        {
+          "chapter": 1,
+          "section": 3,
+          "title": "发酵工程及其应用",
+          "printed_page": 22,
+          "pdf_page": 31
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "植物细胞工程",
+          "printed_page": 34,
+          "pdf_page": 43
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "动物细胞工程",
+          "printed_page": 43,
+          "pdf_page": 52
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "胚胎工程",
+          "printed_page": 56,
+          "pdf_page": 65
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "重组DNA技术的基本工具",
+          "printed_page": 70,
+          "pdf_page": 79
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "基因工程的基本操作程序",
+          "printed_page": 76,
+          "pdf_page": 85
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "基因工程的应用",
+          "printed_page": 87,
+          "pdf_page": 96
+        },
+        {
+          "chapter": 3,
+          "section": 4,
+          "title": "蛋白质工程的原理和应用",
+          "printed_page": 93,
+          "pdf_page": 102
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "转基因产品的安全性",
+          "printed_page": 101,
+          "pdf_page": 110
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "关注生殖性克隆人",
+          "printed_page": 106,
+          "pdf_page": 115
+        },
+        {
+          "chapter": 4,
+          "section": 3,
+          "title": "禁止生物武器",
+          "printed_page": 111,
+          "pdf_page": 120
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "key": "b1",
+    "title": "普通高中教科书·生物学必修1 分子与细胞",
+    "edition_id": "cn-9d522562-b529-446c-9b5b-084812beee6e-b02fac36b03b",
+    "url": "https://sun.bdfz.net/files/pdf/cn-9d522562-b529-446c-9b5b-084812beee6e-b02fac36b03b/b02fac36b03b/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E%EF%BC%88%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%89.pdf?download=1",
+    "bytes": 20917108,
+    "pages": 146,
+    "catalog_platform_current": true,
+    "acquired_at": "2026-10-10T12:04:26Z",
+    "newer_edition": null,
+    "sha_prefix": "b02fac36b03b",
+    "copyright_page_checked": true,
+    "sha256": "b02fac36b03bce0898410915fb4abecb3f62f287ee9aafb776f7b758b06806c6",
+    "catalog_current_claim_as_of": "2026-10-10",
+    "approval_year": 2019,
+    "approval_evidence_pdf_pages": [
+      142
+    ],
+    "edition_printing": "公开电子本未填写版次、印次；不能由获取日期推定",
+    "latest_verification": {
+      "status": "confirmed",
+      "checked_at": "2026-10-26",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/9d522562-b529-446c-9b5b-084812beee6e.json",
+      "basis": "直接核对国家中小学智慧教育平台当前目录与ndrv2详情：资源ID、2026年8月更新时间、页数、字节数一致；本地PDF按8 MiB分片计算的校验值与官方ti_md5逐字一致。最新范围指截至核验日官方在线电子教材，不推断纸质版印次。",
+      "identity_report": "reference/textbook-identity-verification.json",
+      "official_update_time": "2026-08-21T14:03:44.537+0800",
+      "official_file_digest": "9642e43dc645bb81a5e51f6cb8ea3fa4-3"
+    },
+    "publisher_catalog": {
+      "confirmed_current_listing": true,
+      "checked_at": "2026-10-26",
+      "source_url": "https://jc.pep.com.cn/",
+      "book_id": "1443001111191",
+      "reader_url": "https://book.pep.com.cn/1443001111191/"
+    }
+  },
+  {
+    "key": "b2",
+    "title": "普通高中教科书·生物学必修2 遗传与进化",
+    "edition_id": "cn-f89f0368-11c8-4a21-a767-a9102c9ce872-be085dbfa35a",
+    "url": "https://sun.bdfz.net/files/pdf/cn-f89f0368-11c8-4a21-a767-a9102c9ce872-be085dbfa35a/be085dbfa35a/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96%EF%BC%88%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%89.pdf?download=1",
+    "bytes": 23332265,
+    "pages": 138,
+    "catalog_platform_current": true,
+    "acquired_at": "2026-10-10T12:04:37Z",
+    "newer_edition": null,
+    "sha_prefix": "be085dbfa35a",
+    "copyright_page_checked": true,
+    "sha256": "be085dbfa35af897050f58a1f411785840fa7f515220014acf14416cb3092dd1",
+    "catalog_current_claim_as_of": "2026-10-10",
+    "approval_year": 2019,
+    "approval_evidence_pdf_pages": [
+      136
+    ],
+    "edition_printing": "公开电子本未填写版次、印次；不能由获取日期推定",
+    "latest_verification": {
+      "status": "confirmed",
+      "checked_at": "2026-10-26",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/f89f0368-11c8-4a21-a767-a9102c9ce872.json",
+      "basis": "直接核对国家中小学智慧教育平台当前目录与ndrv2详情：资源ID、2026年8月更新时间、页数、字节数一致；本地PDF按8 MiB分片计算的校验值与官方ti_md5逐字一致。最新范围指截至核验日官方在线电子教材，不推断纸质版印次。",
+      "identity_report": "reference/textbook-identity-verification.json",
+      "official_update_time": "2026-08-18T12:19:40.925+0800",
+      "official_file_digest": "d14516e97e17abd2df096c50b42bb107-3"
+    },
+    "publisher_catalog": {
+      "confirmed_current_listing": true,
+      "checked_at": "2026-10-26",
+      "source_url": "https://jc.pep.com.cn/",
+      "book_id": "1443001112191",
+      "reader_url": "https://book.pep.com.cn/1443001112191/"
+    }
+  },
+  {
+    "key": "x1",
+    "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+    "edition_id": "cn-ec6ab12c-0b06-43a5-bf62-ee90b619f607-e2589ed4c0a9",
+    "url": "https://sun.bdfz.net/files/pdf/cn-ec6ab12c-0b06-43a5-bf62-ee90b619f607-e2589ed4c0a9/e2589ed4c0a9/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82%EF%BC%88%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%89.pdf?download=1",
+    "bytes": 15993295,
+    "pages": 123,
+    "catalog_platform_current": true,
+    "acquired_at": "2026-10-10T12:04:50Z",
+    "newer_edition": null,
+    "sha_prefix": "e2589ed4c0a9",
+    "copyright_page_checked": true,
+    "sha256": "e2589ed4c0a9f8d302f27a3b96ae9bdd15322e97fae23303f9d0b1c2e54808d0",
+    "catalog_current_claim_as_of": "2026-10-10",
+    "approval_year": 2019,
+    "approval_evidence_pdf_pages": [
+      121
+    ],
+    "edition_printing": "公开电子本未填写版次、印次；不能由获取日期推定",
+    "latest_verification": {
+      "status": "confirmed",
+      "checked_at": "2026-10-26",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/ec6ab12c-0b06-43a5-bf62-ee90b619f607.json",
+      "basis": "直接核对国家中小学智慧教育平台当前目录与ndrv2详情：资源ID、2026年8月更新时间、页数、字节数一致；本地PDF按8 MiB分片计算的校验值与官方ti_md5逐字一致。最新范围指截至核验日官方在线电子教材，不推断纸质版印次。",
+      "identity_report": "reference/textbook-identity-verification.json",
+      "official_update_time": "2026-08-18T12:18:31.276+0800",
+      "official_file_digest": "0b72aaef28f6e8372020092e355161b6-2"
+    },
+    "publisher_catalog": {
+      "confirmed_current_listing": true,
+      "checked_at": "2026-10-26",
+      "source_url": "https://jc.pep.com.cn/",
+      "book_id": "1443001131201",
+      "reader_url": "https://book.pep.com.cn/1443001131201/"
+    }
+  },
+  {
+    "key": "x2",
+    "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+    "edition_id": "cn-825baab7-f0ea-4a90-9b4a-513f338e2484-ad61d8470304",
+    "url": "https://sun.bdfz.net/files/pdf/cn-825baab7-f0ea-4a90-9b4a-513f338e2484-ad61d8470304/ad61d8470304/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83%EF%BC%88%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%89.pdf?download=1",
+    "bytes": 22895437,
+    "pages": 126,
+    "catalog_platform_current": true,
+    "acquired_at": "2026-10-10T12:05:00Z",
+    "newer_edition": null,
+    "sha_prefix": "ad61d8470304",
+    "copyright_page_checked": true,
+    "sha256": "ad61d8470304b8c239a9fffd27bad2efd1e8b6eedec1f50a7a26afecb86b2349",
+    "catalog_current_claim_as_of": "2026-10-10",
+    "approval_year": 2019,
+    "approval_evidence_pdf_pages": [
+      123
+    ],
+    "edition_printing": "公开电子本未填写版次、印次；不能由获取日期推定",
+    "latest_verification": {
+      "status": "confirmed",
+      "checked_at": "2026-10-26",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/825baab7-f0ea-4a90-9b4a-513f338e2484.json",
+      "basis": "直接核对国家中小学智慧教育平台当前目录与ndrv2详情：资源ID、2026年8月更新时间、页数、字节数一致；本地PDF按8 MiB分片计算的校验值与官方ti_md5逐字一致。最新范围指截至核验日官方在线电子教材，不推断纸质版印次。",
+      "identity_report": "reference/textbook-identity-verification.json",
+      "official_update_time": "2026-08-18T12:18:19.336+0800",
+      "official_file_digest": "9e311337ecfc1eb3350dd354329d10ee-3"
+    },
+    "publisher_catalog": {
+      "confirmed_current_listing": true,
+      "checked_at": "2026-10-26",
+      "source_url": "https://jc.pep.com.cn/",
+      "book_id": "1443001132201",
+      "reader_url": "https://book.pep.com.cn/1443001132201/"
+    }
+  },
+  {
+    "key": "x3",
+    "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+    "edition_id": "cn-d12ff6b6-b6cd-444a-9749-4642aa350482-487485b1aceb",
+    "url": "https://sun.bdfz.net/files/pdf/cn-d12ff6b6-b6cd-444a-9749-4642aa350482-487485b1aceb/487485b1aceb/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B%EF%BC%88%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%89.pdf?download=1",
+    "bytes": 19976770,
+    "pages": 130,
+    "catalog_platform_current": true,
+    "acquired_at": "2026-10-10T12:05:08Z",
+    "newer_edition": null,
+    "sha_prefix": "487485b1aceb",
+    "copyright_page_checked": true,
+    "sha256": "487485b1aceb316873b73ab0c581fd70c92f9bd287560a8e0352700bf037e60a",
+    "catalog_current_claim_as_of": "2026-10-10",
+    "approval_year": 2019,
+    "approval_evidence_pdf_pages": [
+      127
+    ],
+    "edition_printing": "公开电子本未填写版次、印次；不能由获取日期推定",
+    "latest_verification": {
+      "status": "confirmed",
+      "checked_at": "2026-10-26",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/d12ff6b6-b6cd-444a-9749-4642aa350482.json",
+      "basis": "直接核对国家中小学智慧教育平台当前目录与ndrv2详情：资源ID、2026年8月更新时间、页数、字节数一致；本地PDF按8 MiB分片计算的校验值与官方ti_md5逐字一致。最新范围指截至核验日官方在线电子教材，不推断纸质版印次。",
+      "identity_report": "reference/textbook-identity-verification.json",
+      "official_update_time": "2026-08-18T12:20:04.408+0800",
+      "official_file_digest": "8f288e4c03fc32c32ea4c075dffb3198-3"
+    },
+    "publisher_catalog": {
+      "confirmed_current_listing": true,
+      "checked_at": "2026-10-26",
+      "source_url": "https://jc.pep.com.cn/",
+      "book_id": "1443001133201",
+      "reader_url": "https://book.pep.com.cn/1443001133201/"
+    }
+  }
+]

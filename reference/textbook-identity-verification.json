@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-10-26",
+  "catalog_sha256": "dd588c51c58bd96bc8f5f3b9051bfc3fedd29bb4f802d81bf2de9b170303d82e",
+  "books": [
+    {
+      "key": "b1",
+      "checks": {
+        "resource_id": true,
+        "current_update": true,
+        "bytes": true,
+        "pages": true,
+        "sha256": true,
+        "multipart_digest": true
+      },
+      "resource_id": "9d522562-b529-446c-9b5b-084812beee6e",
+      "official_update_time": "2026-08-21T14:03:44.537+0800",
+      "official_file_digest": "9642e43dc645bb81a5e51f6cb8ea3fa4-3",
+      "digest_method": "MD5 of concatenated binary MD5 digests of 8 MiB parts, followed by part count",
+      "sha256": "b02fac36b03bce0898410915fb4abecb3f62f287ee9aafb776f7b758b06806c6",
+      "metadata_sha256": "1fe9bc34cabdc3fd507480ae844030feaa0fa36f9f8265d661d1dedf6ee7e6de",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/9d522562-b529-446c-9b5b-084812beee6e.json"
+    },
+    {
+      "key": "b2",
+      "checks": {
+        "resource_id": true,
+        "current_update": true,
+        "bytes": true,
+        "pages": true,
+        "sha256": true,
+        "multipart_digest": true
+      },
+      "resource_id": "f89f0368-11c8-4a21-a767-a9102c9ce872",
+      "official_update_time": "2026-08-18T12:19:40.925+0800",
+      "official_file_digest": "d14516e97e17abd2df096c50b42bb107-3",
+      "digest_method": "MD5 of concatenated binary MD5 digests of 8 MiB parts, followed by part count",
+      "sha256": "be085dbfa35af897050f58a1f411785840fa7f515220014acf14416cb3092dd1",
+      "metadata_sha256": "5ea86e311b554ae595e795d9e6643eb946a538b016fd6343e7bc94e3efda9d7e",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/f89f0368-11c8-4a21-a767-a9102c9ce872.json"
+    },
+    {
+      "key": "x1",
+      "checks": {
+        "resource_id": true,
+        "current_update": true,
+        "bytes": true,
+        "pages": true,
+        "sha256": true,
+        "multipart_digest": true
+      },
+      "resource_id": "ec6ab12c-0b06-43a5-bf62-ee90b619f607",
+      "official_update_time": "2026-08-18T12:18:31.276+0800",
+      "official_file_digest": "0b72aaef28f6e8372020092e355161b6-2",
+      "digest_method": "MD5 of concatenated binary MD5 digests of 8 MiB parts, followed by part count",
+      "sha256": "e2589ed4c0a9f8d302f27a3b96ae9bdd15322e97fae23303f9d0b1c2e54808d0",
+      "metadata_sha256": "9c4acb73b5cda4e942850df63218f6fd3d564712058d24b2a4ec5796efb314bc",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/ec6ab12c-0b06-43a5-bf62-ee90b619f607.json"
+    },
+    {
+      "key": "x2",
+      "checks": {
+        "resource_id": true,
+        "current_update": true,
+        "bytes": true,
+        "pages": true,
+        "sha256": true,
+        "multipart_digest": true
+      },
+      "resource_id": "825baab7-f0ea-4a90-9b4a-513f338e2484",
+      "official_update_time": "2026-08-18T12:18:19.336+0800",
+      "official_file_digest": "9e311337ecfc1eb3350dd354329d10ee-3",
+      "digest_method": "MD5 of concatenated binary MD5 digests of 8 MiB parts, followed by part count",
+      "sha256": "ad61d8470304b8c239a9fffd27bad2efd1e8b6eedec1f50a7a26afecb86b2349",
+      "metadata_sha256": "ee49be9a45fe12e383acd5b4758011db18535728c869f7355aaa165dc1f42e10",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/825baab7-f0ea-4a90-9b4a-513f338e2484.json"
+    },
+    {
+      "key": "x3",
+      "checks": {
+        "resource_id": true,
+        "current_update": true,
+        "bytes": true,
+        "pages": true,
+        "sha256": true,
+        "multipart_digest": true
+      },
+      "resource_id": "d12ff6b6-b6cd-444a-9749-4642aa350482",
+      "official_update_time": "2026-08-18T12:20:04.408+0800",
+      "official_file_digest": "8f288e4c03fc32c32ea4c075dffb3198-3",
+      "digest_method": "MD5 of concatenated binary MD5 digests of 8 MiB parts, followed by part count",
+      "sha256": "487485b1aceb316873b73ab0c581fd70c92f9bd287560a8e0352700bf037e60a",
+      "metadata_sha256": "d707bb890fa8702a704caeceab5fc13257481f6ce4897a61141383b464e8480f",
+      "source_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/d12ff6b6-b6cd-444a-9749-4642aa350482.json"
+    }
+  ]
+}

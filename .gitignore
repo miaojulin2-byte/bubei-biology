@@ -16,3 +16,5 @@ __pycache__/
 reference/original-*.png
 reference/original-*.xml
 reference/ui-*.png
+# Generated locally from the private textbook PDFs.
+app/reviewed/covers/

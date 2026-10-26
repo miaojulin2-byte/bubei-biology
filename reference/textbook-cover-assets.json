@@ -1,0 +1,37 @@
+[
+  {
+    "key": "b1",
+    "source_pdf_sha256": "b02fac36b03bce0898410915fb4abecb3f62f287ee9aafb776f7b758b06806c6",
+    "pdf_page": 1,
+    "asset": "app/reviewed/covers/b1.jpg",
+    "sha256": "215bb75b703aeb1e9ec59851c82cc95e483910741e39a650b6eca21a9dae9f79"
+  },
+  {
+    "key": "b2",
+    "source_pdf_sha256": "be085dbfa35af897050f58a1f411785840fa7f515220014acf14416cb3092dd1",
+    "pdf_page": 1,
+    "asset": "app/reviewed/covers/b2.jpg",
+    "sha256": "00ef99e05db57bf94b62a7d3635c44673152e695a74da30f8607b2c8adf01149"
+  },
+  {
+    "key": "x1",
+    "source_pdf_sha256": "e2589ed4c0a9f8d302f27a3b96ae9bdd15322e97fae23303f9d0b1c2e54808d0",
+    "pdf_page": 1,
+    "asset": "app/reviewed/covers/x1.jpg",
+    "sha256": "35765fe9f5aa4f0f3e0901db2586da831ba65cae8c02e7360c33053dde56cbd1"
+  },
+  {
+    "key": "x2",
+    "source_pdf_sha256": "ad61d8470304b8c239a9fffd27bad2efd1e8b6eedec1f50a7a26afecb86b2349",
+    "pdf_page": 1,
+    "asset": "app/reviewed/covers/x2.jpg",
+    "sha256": "8eaea09ab576a04c7ab1ac162cfd09cf1da8130a49a610e058aca4ffe2e951c2"
+  },
+  {
+    "key": "x3",
+    "source_pdf_sha256": "487485b1aceb316873b73ab0c581fd70c92f9bd287560a8e0352700bf037e60a",
+    "pdf_page": 1,
+    "asset": "app/reviewed/covers/x3.jpg",
+    "sha256": "3cc0bb055d0f07ff7da609a710fe56718018f5312ba1022a1a7e0c590f9fa645"
+  }
+]

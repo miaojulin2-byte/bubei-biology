@@ -1,0 +1,57 @@
+{
+  "task": "不背生物 APK：候选 Anki 内容以人教版教材逐条审核后导入",
+  "latest_user_instruction": "只保留已核对通过，且必须使用最新版教材",
+  "source_policy": "正式题库只保留对照经确认最新版教材逐条核对通过的条目。旧版参考、待核实、错误条目不能作为通过依据。修正后仍须重新核对。",
+  "candidate": {
+    "url": "https://ankiweb.net/shared/info/112165574",
+    "author": "禽滑楸（页面自述）",
+    "updated": "2024-06-17",
+    "notes": 1474,
+    "cards": 1692,
+    "images": 78,
+    "local_apkg": "/Users/linmiaoju/Downloads/_____.apkg",
+    "local_db": "private-content/candidate.anki21",
+    "types": [
+      "Basic",
+      "Cloze",
+      "图片遮盖"
+    ],
+    "teacher_review_evidence": "未找到",
+    "license": "AnkiWeb shared deck license: personal studies only; do not redistribute without permission"
+  },
+  "app_status": "0.2.0 核心功能已完成并在独立 QA 包验证。正式手机包仍是 0.1.0，尚未覆盖升级。自编 75 概念/150题暂作为测试数据，不能标为已审核内容。",
+  "verified_features": [
+    "25章目录",
+    "章节范围",
+    "分组学习复习",
+    "进程重启后续学",
+    "首答保留",
+    "笔记收藏概念本",
+    "术语自测",
+    "专题",
+    "日历统计",
+    "主题字号",
+    "原生SAF导出导入及合并去重"
+  ],
+  "audit_status": "5册教材均已下载并校验；已实施正式包审核准入检查。逐条内容审核尚未完成，当前通过数为0。",
+  "reference_attempt": "国家智慧教育平台两份 PDF 的直接 curl 请求返回403；须改用公开可访问的教材原文来源，不绕过访问限制",
+  "remaining": [
+    "获取并固定5册教材版本",
+    "解析1692卡及题型、图片",
+    "逐条审核与证据记录",
+    "只发布审核通过的条目",
+    "接入Anki问答/填空/遮盖学习格式",
+    "新版APK真机验证及升级",
+    "清理QA临时文件与包"
+  ],
+  "latest_user_clarification": "用户认为可能是2019版，要求由官方文件核实；不要再要求用户提供版本信息。",
+  "version_findings": {
+    "official_textbook": "国家平台索引的人教版选择性必修1、3后记显示2019年审查通过。下载的现行学校镜像后记显示2019年审核通过，且注明投入使用后作了修订。",
+    "caution": "课标2025年修订不意味着教材2019审定版已整体替换；目前未取得新版替代的官方证据，也不能断言镜像包含最新印次全部勘误。",
+    "official_links": [
+      "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets_document/d12ff6b6-b6cd-444a-9749-4642aa350482.pkg/pdf.pdf",
+      "https://hudong.moe.gov.cn/srcsite/A26/s8001/202305/t20230506_1058493.html",
+      "https://www.pep.com.cn/rjdt/rjdt/202602/t20260211_2005325.shtml"
+    ]
+  }
+}

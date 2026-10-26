@@ -1,0 +1,2122 @@
+{
+  "checked_at": "2026-10-26",
+  "scope": "82个正文节逐节检查；代表性记忆卡与具体缺口清单，不宣称全考点或新情境掌握。",
+  "books": [
+    {
+      "book": 0,
+      "key": "b1",
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "细胞是生命活动的基本单位",
+          "pdf_pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "existing_note_ids": [
+            "1681656169127",
+            "1681656169132"
+          ],
+          "gap_summary": "已有细胞学说和生命活动基本单位；主要不足是生命系统层次实例辨析。",
+          "additions": [],
+          "remaining_gaps": [
+            "生命系统层次的复杂情境辨析与教材科学史实验链未全部制成题。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "细胞的多样性和统一性",
+          "pdf_pages": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "existing_note_ids": [
+            "1681656169135",
+            "1681656169143"
+          ],
+          "gap_summary": "已有真原核分类；补充高倍镜操作步骤。",
+          "additions": [
+            "supp-b1-high-power"
+          ],
+          "remaining_gaps": [
+            "显微镜实物操作、比例尺计算及所有生物分类例外未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "细胞中的元素和化合物",
+          "pdf_pages": [
+            25,
+            26,
+            27,
+            28
+          ],
+          "existing_note_ids": [
+            "1681657628963",
+            "1681657628967"
+          ],
+          "gap_summary": "已有化合物及试剂配方；补元素与无机界关系、三类物质鉴定现象。",
+          "additions": [
+            "supp-b1-element-world",
+            "supp-b1-detection"
+          ],
+          "remaining_gaps": [
+            "实验材料选择、阴性对照及误差归因尚缺情境题。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "细胞中的无机物",
+          "pdf_pages": [
+            29,
+            30,
+            31
+          ],
+          "existing_note_ids": [
+            "1681657628971",
+            "1683363415555"
+          ],
+          "gap_summary": "已有自由水结合水及无机盐功能，未重复增加。",
+          "additions": [],
+          "remaining_gaps": [
+            "含水量图表比较、无机盐缺乏对照实验设计未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "细胞中的糖类和脂质",
+          "pdf_pages": [
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "existing_note_ids": [
+            "1681657628980",
+            "1683092722840"
+          ],
+          "gap_summary": "已有储能糖、脂肪、磷脂及固醇功能。",
+          "additions": [],
+          "remaining_gaps": [
+            "单糖二糖多糖逐类比较与糖脂代谢的综合应用未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 4,
+          "title": "蛋白质是生命活动的主要承担者",
+          "pdf_pages": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "existing_note_ids": [
+            "1683092841807",
+            "1683106823380"
+          ],
+          "gap_summary": "已有功能、氨基酸图和空间结构；补脱水缩合与肽键。",
+          "additions": [
+            "supp-b1-peptide"
+          ],
+          "remaining_gaps": [
+            "肽链数、肽键数和脱水量计算及结构图判读未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 5,
+          "title": "核酸是遗传信息的携带者",
+          "pdf_pages": [
+            43,
+            44,
+            45,
+            46
+          ],
+          "existing_note_ids": [
+            "1683107108048",
+            "1683107972998"
+          ],
+          "gap_summary": "已有核酸分布功能；补核苷酸基本组成。",
+          "additions": [
+            "supp-b1-nucleotide"
+          ],
+          "remaining_gaps": [
+            "DNA/RNA碱基与糖种类综合比较、生物大分子碳骨架未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "细胞膜的结构和功能",
+          "pdf_pages": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55
+          ],
+          "existing_note_ids": [
+            "1684071037126",
+            "1684071129402"
+          ],
+          "gap_summary": "已有流动镶嵌模型糖被；补细胞膜三项功能，纠正原社区跨章混杂答案。",
+          "additions": [
+            "supp-b1-membrane-functions"
+          ],
+          "remaining_gaps": [
+            "膜结构科学史各实验的证据边界和膜流动实验分析未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "细胞器之间的分工合作",
+          "pdf_pages": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+          ],
+          "existing_note_ids": [
+            "1684071302704",
+            "1684071320970",
+            "1684072015025"
+          ],
+          "gap_summary": "已有主要细胞器与生物膜系统；本轮未重复增加。",
+          "additions": [],
+          "remaining_gaps": [
+            "分泌蛋白脉冲追踪的时间图像判读及显微观察误差未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "细胞核的结构和功能",
+          "pdf_pages": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+          ],
+          "existing_note_ids": [
+            "1684072640937",
+            "1684072611241"
+          ],
+          "gap_summary": "已有核功能和染色体染色质；修复核仁某种RNA限定。",
+          "additions": [
+            "supp-b1-nucleolus"
+          ],
+          "remaining_gaps": [
+            "核移植和伞藻实验的对照证据、核膜核孔结构图未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "被动运输",
+          "pdf_pages": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "existing_note_ids": [
+            "1685968597916",
+            "1685968597924",
+            "1685968597918"
+          ],
+          "gap_summary": "已有渗透与协助扩散；补质壁分离复原条件和过程。",
+          "additions": [
+            "supp-b1-plasmolysis-recovery"
+          ],
+          "remaining_gaps": [
+            "渗透装置液面变化、不同溶质穿膜和植物细胞体积曲线未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "主动运输与胞吞、胞吐",
+          "pdf_pages": [
+            78,
+            79,
+            80,
+            81,
+            82
+          ],
+          "existing_note_ids": [
+            "1685968597929",
+            "1685968597932"
+          ],
+          "gap_summary": "已有主动运输，补胞吐的囊泡融合过程和能量要求。",
+          "additions": [
+            "supp-b1-vesicle-transport"
+          ],
+          "remaining_gaps": [
+            "不同运输方式综合判别和运输速率影响曲线未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 1,
+          "title": "降低化学反应活化能的酶",
+          "pdf_pages": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "existing_note_ids": [
+            "1686453129846",
+            "1686453648644",
+            "1686453847848"
+          ],
+          "gap_summary": "已有作用、专一性和活性条件；修复高效性指数丢失。",
+          "additions": [
+            "supp-b1-enzyme-efficiency"
+          ],
+          "remaining_gaps": [
+            "酶实验变量控制、曲线分析和温度pH交叉实验未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 2,
+          "title": "细胞的能量“货币”ATP",
+          "pdf_pages": [
+            95,
+            96,
+            97,
+            98
+          ],
+          "existing_note_ids": [
+            "1686454201033",
+            "1715520461684"
+          ],
+          "gap_summary": "已有直接供能和耦联，补ATP结构符号含义。",
+          "additions": [
+            "supp-b1-atp-structure"
+          ],
+          "remaining_gaps": [
+            "磷酸化引起转运蛋白构象变化的图示推理未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 3,
+          "title": "细胞呼吸的原理和应用",
+          "pdf_pages": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+          ],
+          "existing_note_ids": [
+            "1686455263286",
+            "1715520986248"
+          ],
+          "gap_summary": "已有定义检验和应用，补三个阶段场所及直接用氧阶段。",
+          "additions": [
+            "supp-b1-respiration-sites"
+          ],
+          "remaining_gaps": [
+            "呼吸商、底物变化、装置气体体积定量推理未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 4,
+          "title": "光合作用与能量转化",
+          "pdf_pages": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ],
+          "existing_note_ids": [
+            "1686456135038",
+            "1716117740753",
+            "1716118097963"
+          ],
+          "gap_summary": "已有色素吸光和两阶段关系；补层析操作限制并修复暗反应与光的关系。",
+          "additions": [
+            "supp-b1-chromatography-line",
+            "supp-b1-dark-reaction-light"
+          ],
+          "remaining_gaps": [
+            "净光合与总光合曲线、CO2/光照突变和限制因素综合题未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 1,
+          "title": "细胞的增殖",
+          "pdf_pages": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+          ],
+          "existing_note_ids": [
+            "1686456714575",
+            "1691931309507",
+            "1691933678840"
+          ],
+          "gap_summary": "已有周期和制片观察；补有丝分裂前中后末四时期关键事件。",
+          "additions": [
+            "supp-b1-mitosis-prophase",
+            "supp-b1-mitosis-metaphase",
+            "supp-b1-mitosis-anaphase",
+            "supp-b1-mitosis-telophase"
+          ],
+          "remaining_gaps": [
+            "染色体DNA数量曲线、实物照片判期及完整实验设计未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 2,
+          "title": "细胞的分化",
+          "pdf_pages": [
+            127,
+            128,
+            129,
+            130,
+            131
+          ],
+          "existing_note_ids": [
+            "1691934305950",
+            "1691934340291",
+            "1691934478428"
+          ],
+          "gap_summary": "已有分化定义、选择性表达与全能性，没有为数量重复增加。",
+          "additions": [],
+          "remaining_gaps": [
+            "全能性证据与正常发育的区分、核移植条件综合比较未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 3,
+          "title": "细胞的衰老和死亡",
+          "pdf_pages": [
+            132,
+            133,
+            134,
+            135,
+            136,
+            137
+          ],
+          "existing_note_ids": [
+            "1692536893653",
+            "1691934718079",
+            "1691934754293"
+          ],
+          "gap_summary": "已有衰老特征凋亡自噬；按新版修复自由基定义。",
+          "additions": [
+            "supp-b1-free-radical"
+          ],
+          "remaining_gaps": [
+            "衰老核质互换实验推断和凋亡坏死自噬复杂案例未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        }
+      ],
+      "new_cards": 19,
+      "sections_checked": 19
+    },
+    {
+      "book": 1,
+      "key": "b2",
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "孟德尔的豌豆杂交实验（一）",
+          "pdf_pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "existing_note_ids": [
+            "1692539209275",
+            "1692539209281",
+            "1696773652023"
+          ],
+          "gap_summary": "已有假说分离定律测交思路；补高矮茎实验F2结果。",
+          "additions": [
+            "supp-b2-monohybrid-result"
+          ],
+          "remaining_gaps": [
+            "系谱概率、连续自交和实验样本量计算未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "孟德尔的豌豆杂交实验（二）",
+          "pdf_pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "existing_note_ids": [
+            "1692539209293",
+            "1692539993072"
+          ],
+          "gap_summary": "已有自由组合和实验成功方法；补两对性状自交与测交预期。",
+          "additions": [
+            "supp-b2-dihybrid-result",
+            "supp-b2-dihybrid-testcross"
+          ],
+          "remaining_gaps": [
+            "多对基因、异常分离比及自由组合适用条件综合题未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "减数分裂和受精作用",
+          "pdf_pages": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "existing_note_ids": [
+            "1692539511426",
+            "1693148224684",
+            "1693148224701"
+          ],
+          "gap_summary": "已有分裂过程及受精遗传意义，本轮不重复。",
+          "additions": [],
+          "remaining_gaps": [
+            "染色体图像判读、配子种类计数和异常分离定量题未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "基因在染色体上",
+          "pdf_pages": [
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "existing_note_ids": [
+            "1693148224719",
+            "1693148224725",
+            "1693148224731"
+          ],
+          "gap_summary": "已有萨顿假说、线性排列与遗传规律现代解释。",
+          "additions": [],
+          "remaining_gaps": [
+            "摩尔根果蝇杂交的完整假说验证图解未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "伴性遗传",
+          "pdf_pages": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "existing_note_ids": [
+            "1693148515923",
+            "1693148515936"
+          ],
+          "gap_summary": "原有实例和应用但缺核心定义与简单概率；补定义和红绿色盲婚配结果。",
+          "additions": [
+            "supp-b2-sex-linked",
+            "supp-b2-colorblind-cross"
+          ],
+          "remaining_gaps": [
+            "复杂系谱、ZW型性别遗传和育种方案的完整计算未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "DNA是主要的遗传物质",
+          "pdf_pages": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "existing_note_ids": [
+            "1693149193796",
+            "1713097463522"
+          ],
+          "gap_summary": "已有主要遗传物质结论和噬菌体操作，补格里菲思与艾弗里证据差别。",
+          "additions": [
+            "supp-b2-griffith-conclusion",
+            "supp-b2-avery-dnase"
+          ],
+          "remaining_gaps": [
+            "噬菌体同位素异常分布及RNA病毒证据实验未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "DNA的结构",
+          "pdf_pages": [
+            57,
+            58,
+            59,
+            60,
+            61
+          ],
+          "existing_note_ids": [
+            "1693149782555"
+          ],
+          "gap_summary": "已有双螺旋全部主要特点，本轮不重复。",
+          "additions": [],
+          "remaining_gaps": [
+            "碱基比例氢键数和链方向的数量推理未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "DNA的复制",
+          "pdf_pages": [
+            62,
+            63,
+            64,
+            65
+          ],
+          "existing_note_ids": [
+            "1693149782566",
+            "1693149782572"
+          ],
+          "gap_summary": "已有复制过程条件，补半保留实验首两代条带结果。",
+          "additions": [
+            "supp-b2-replication-bands"
+          ],
+          "remaining_gaps": [
+            "多代复制同位素数量和复制差错推理未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 3,
+          "section": 4,
+          "title": "基因通常是有遗传效应的DNA片段",
+          "pdf_pages": [
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "existing_note_ids": [
+            "1702213609464"
+          ],
+          "gap_summary": "已有DNA信息多样性特异性及基因定义。",
+          "additions": [],
+          "remaining_gaps": [
+            "基因非编码区与DNA全长关系、RNA病毒基因材料比较未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "基因指导蛋白质的合成",
+          "pdf_pages": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ],
+          "existing_note_ids": [
+            "1697377780388",
+            "1697378432727"
+          ],
+          "gap_summary": "已有翻译中心法则，修复转录和密码子定义缺口。",
+          "additions": [
+            "supp-b2-transcription",
+            "supp-b2-codon"
+          ],
+          "remaining_gaps": [
+            "转录翻译链方向与氨基酸数量计算、tRNA反密码子判读未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "基因表达与性状的关系",
+          "pdf_pages": [
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "existing_note_ids": [
+            "1697378584721",
+            "1697378944183",
+            "1697379067771"
+          ],
+          "gap_summary": "已有间接直接控性状、表观遗传与环境关系。",
+          "additions": [],
+          "remaining_gaps": [
+            "甲基化实验对照与基因表达调控数据分析未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 1,
+          "title": "基因突变和基因重组",
+          "pdf_pages": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "existing_note_ids": [
+            "1713099682091",
+            "1713099682173"
+          ],
+          "gap_summary": "已有定义诱因意义；修复随机性与不定向性两项特点。",
+          "additions": [
+            "supp-b2-mutation-properties"
+          ],
+          "remaining_gaps": [
+            "突变对蛋白序列影响及基因重组发生阶段辨析未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 2,
+          "title": "染色体变异",
+          "pdf_pages": [
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "existing_note_ids": [
+            "1713099682201",
+            "1713099682280"
+          ],
+          "gap_summary": "已有数量变异及育种，补结构变异四类。",
+          "additions": [
+            "supp-b2-chromosome-structure"
+          ],
+          "remaining_gaps": [
+            "染色体组图像、低温诱导实验与倍性判断未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 5,
+          "section": 3,
+          "title": "人类遗传病",
+          "pdf_pages": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+          ],
+          "existing_note_ids": [
+            "1713100236044",
+            "1713100537958"
+          ],
+          "gap_summary": "已有遗传病三类与检测，补发病率统计分母。",
+          "additions": [
+            "supp-b2-prevalence"
+          ],
+          "remaining_gaps": [
+            "家系遗传方式与群体发病率的调查设计差别未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 1,
+          "title": "生物有共同祖先的证据",
+          "pdf_pages": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "existing_note_ids": [
+            "1713102260952",
+            "1713102260968"
+          ],
+          "gap_summary": "已有化石与其他证据，当前不重复。",
+          "additions": [],
+          "remaining_gaps": [
+            "不同层次证据的解释边界及序列比较推理未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 2,
+          "title": "自然选择与适应的形成",
+          "pdf_pages": [
+            115,
+            116,
+            117,
+            118
+          ],
+          "existing_note_ids": [
+            "1713102260978",
+            "1713102260988"
+          ],
+          "gap_summary": "已有适应定义与必要条件，当前不重复。",
+          "additions": [],
+          "remaining_gaps": [
+            "适应相对性和历史学说对照的未见情境题未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 3,
+          "title": "种群基因组成的变化与物种的形成",
+          "pdf_pages": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ],
+          "existing_note_ids": [
+            "1713102261005",
+            "1713102261022",
+            "1713102261036"
+          ],
+          "gap_summary": "已有基因频率与地理隔离；修复生殖隔离定义的额外字段问题。",
+          "additions": [
+            "supp-b2-reproductive-isolation"
+          ],
+          "remaining_gaps": [
+            "基因频率定量计算、抗生素选择实验和物种形成多路径未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        },
+        {
+          "chapter": 6,
+          "section": 4,
+          "title": "协同进化与生物多样性的形成",
+          "pdf_pages": [
+            128,
+            129,
+            130,
+            131,
+            132,
+            133
+          ],
+          "existing_note_ids": [
+            "1713102261049",
+            "1713102261055"
+          ],
+          "gap_summary": "已有捕食与现代进化概述；补协同进化定义和多样性三个层次。",
+          "additions": [
+            "supp-b2-coevolution",
+            "supp-b2-biodiversity"
+          ],
+          "remaining_gaps": [
+            "进化史图像、协同进化因果与证据应用未全覆盖。"
+          ],
+          "coverage_status": "核心主题有代表卡；非全部考点覆盖",
+          "review_method": "逐节目录与正文核对，人工语义选取代表性既有笔记；不按关键词计数认定完整覆盖。"
+        }
+      ],
+      "new_cards": 16,
+      "sections_checked": 18
+    },
+    {
+      "book": 2,
+      "key": "x1",
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "细胞生活的环境",
+          "pdf_pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "existing_note_ids": [
+            "1701613672546",
+            "1701613672555"
+          ],
+          "gap_summary": "已核对内环境定义及三类理化性质；三种细胞外液的回流终点尚缺独立卡。",
+          "additions": [
+            "supp-x1-lymph-return"
+          ],
+          "remaining_gaps": [
+            "复杂组织水肿情境分析尚无独立题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "内环境的稳态",
+          "pdf_pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "existing_note_ids": [
+            "1701614217087",
+            "1701614538983"
+          ],
+          "gap_summary": "已核对稳态定义及神经—体液—免疫机制；模拟pH实验的比较对象未独立练习。",
+          "additions": [
+            "supp-x1-ph-controls"
+          ],
+          "remaining_gaps": [
+            "pH实验曲线判读和完整对照设计尚未形成迁移验证题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "神经调节的结构基础",
+          "pdf_pages": [
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "existing_note_ids": [
+            "1701615514124",
+            "1701615514180",
+            "1701615514176"
+          ],
+          "gap_summary": "已核对神经系统组成、神经元结构及自主神经双重调节；补充具体器官反应。",
+          "additions": [
+            "supp-x1-autonomic-response"
+          ],
+          "remaining_gaps": [
+            "脑部区域的图示定位仍缺少独立图题。",
+            "现有1701615514131、1701615514137、1701615514142、1701615514147、1701615514153内容属本章，但原记录chapter为1；本文件未改原记录。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "神经调节的基本方式",
+          "pdf_pages": [
+            31,
+            32,
+            33,
+            34
+          ],
+          "existing_note_ids": [
+            "1702214565954",
+            "1702214565978",
+            "1714540753705"
+          ],
+          "gap_summary": "已核对反射弧功能路线与条件反射消退；效应器结构定义原卡残缺。",
+          "additions": [
+            "supp-x1-reflex-effector"
+          ],
+          "remaining_gaps": [
+            "反射弧各处损伤的陌生情境判断尚未补齐。",
+            "条件反射建立与消退实验的对照推理仍需独立题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "神经冲动的产生和传导",
+          "pdf_pages": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "existing_note_ids": [
+            "1702215898965",
+            "1702215898971",
+            "1702215899005"
+          ],
+          "gap_summary": "已核对静息/动作电位离子基础及突触单向性；缺少局部电流驱动传导的完整因果。",
+          "additions": [
+            "supp-x1-local-current"
+          ],
+          "remaining_gaps": [
+            "双电极电位曲线的动态判读尚无独立图题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 2,
+          "section": 4,
+          "title": "神经系统的分级调节",
+          "pdf_pages": [
+            42,
+            43,
+            44
+          ],
+          "existing_note_ids": [
+            "1705234001815",
+            "1705234052469"
+          ],
+          "gap_summary": "已核对躯体运动分级中枢及排尿受脊髓和皮层控制；皮层运动区域具体对应原卡概括不清。",
+          "additions": [
+            "supp-x1-motor-map"
+          ],
+          "remaining_gaps": [
+            "皮层运动代表区面积与精细程度的图表分析待补。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 2,
+          "section": 5,
+          "title": "人脑的高级功能",
+          "pdf_pages": [
+            46,
+            47,
+            48,
+            49
+          ],
+          "existing_note_ids": [
+            "1705234475001",
+            "1705234475037",
+            "1705234475073"
+          ],
+          "gap_summary": "已核对言语区总述、四级记忆及记忆机制；缺少四个言语区功能的对应卡。",
+          "additions": [
+            "supp-x1-language-areas"
+          ],
+          "remaining_gaps": [
+            "记忆模型迁移应用及情绪调适的情境辨析未做全量覆盖。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "激素与内分泌系统",
+          "pdf_pages": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "existing_note_ids": [
+            "1705235719329",
+            "1705235719348"
+          ],
+          "gap_summary": "已核对内分泌系统组成与胰岛两类细胞；促胰液素发现的实验验证卡被排除，需清楚重建。",
+          "additions": [
+            "supp-x1-secretin-experiment"
+          ],
+          "remaining_gaps": [
+            "胰岛素研究中的摘除、移植及提取物实验比较尚无独立题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "激素调节的过程",
+          "pdf_pages": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "existing_note_ids": [
+            "1705239513483",
+            "1705239513519",
+            "1705239513523"
+          ],
+          "gap_summary": "逐项核对血糖去向和激素效应、甲状腺激素分级/反馈以及四个作用特点；基础核心主题已有对应卡，本轮不重复增加。",
+          "additions": [],
+          "remaining_gaps": [
+            "血糖曲线和反馈网络受到干预后的陌生情境推理仍未验证。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "体液调节与神经调节的关系",
+          "pdf_pages": [
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ],
+          "existing_note_ids": [
+            "1705241679887",
+            "1705241679932",
+            "1714541375274"
+          ],
+          "gap_summary": "已核对寒冷调节、神经体液相互联系及水盐平衡总述；抗利尿激素关键链和四类散热方式原卡未过审。",
+          "additions": [
+            "supp-x1-adh-feedback",
+            "supp-x1-heat-loss"
+          ],
+          "remaining_gaps": [
+            "神经调节与体液调节在速度、范围、持续时间上的比较表仍需独立卡。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "免疫系统的组成和功能",
+          "pdf_pages": [
+            75,
+            76,
+            77,
+            78
+          ],
+          "existing_note_ids": [
+            "1709218711998",
+            "1709218712003",
+            "1709218712016"
+          ],
+          "gap_summary": "已核对三类组成、非特异防线及免疫自稳；抗原呈递细胞完整定义因附加字段而缺失。",
+          "additions": [
+            "supp-x1-apc"
+          ],
+          "remaining_gaps": [
+            "B细胞与T细胞成熟场所及免疫器官定位仍缺独立问答。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "特异性免疫",
+          "pdf_pages": [
+            80,
+            81,
+            82,
+            83,
+            84
+          ],
+          "existing_note_ids": [
+            "1709440816276",
+            "1709440816280",
+            "1714919301371"
+          ],
+          "gap_summary": "已核对体液/细胞免疫区别及靶细胞裂解后的处理；B细胞双信号及分化过程没有完整可用卡。",
+          "additions": [
+            "supp-x1-b-activation",
+            "supp-x1-b-differentiation"
+          ],
+          "remaining_gaps": [
+            "记忆T细胞再次应答及体液/细胞免疫协同的全流程迁移题待补。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 4,
+          "section": 3,
+          "title": "免疫失调",
+          "pdf_pages": [
+            86,
+            87,
+            88,
+            89
+          ],
+          "existing_note_ids": [
+            "1709442819904",
+            "1709442819936",
+            "1709442819945"
+          ],
+          "gap_summary": "已核对过敏、自身免疫病和免疫缺陷病定义；过敏效应细胞与组胺反应链原句结构错误。",
+          "additions": [
+            "supp-x1-allergy-mechanism"
+          ],
+          "remaining_gaps": [
+            "HIV攻击辅助性T细胞后的免疫后果尚缺独立机制卡。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 4,
+          "section": 4,
+          "title": "免疫学的应用",
+          "pdf_pages": [
+            91,
+            92,
+            93,
+            94
+          ],
+          "existing_note_ids": [
+            "1709442819985",
+            "1709442820004"
+          ],
+          "gap_summary": "已核对疫苗利用免疫记忆、预防诊断治疗用途；移植排斥的识别原因尚无直接问答。",
+          "additions": [
+            "supp-x1-hla-rejection"
+          ],
+          "remaining_gaps": [
+            "抗原抗体检测原理及人工抗体治疗应用仍需独立情境题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 5,
+          "section": 1,
+          "title": "植物生长素",
+          "pdf_pages": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "existing_note_ids": [
+            "1709446714132",
+            "1709446714136",
+            "1709446714154"
+          ],
+          "gap_summary": "已核对极性运输及受体信号机制；低浓度促进/过高抑制和顶端优势的关键机制缺可用卡。",
+          "additions": [
+            "supp-x1-auxin-dose",
+            "supp-x1-apical-dominance"
+          ],
+          "remaining_gaps": [
+            "达尔文至温特各实验的变量、对照与证据链及根芽茎浓度曲线图题仍有缺口。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 5,
+          "section": 2,
+          "title": "其他植物激素",
+          "pdf_pages": [
+            105,
+            106,
+            107,
+            108
+          ],
+          "existing_note_ids": [
+            "1709447380176",
+            "1709447380183",
+            "1709447380190"
+          ],
+          "gap_summary": "已核对多激素共同调控、萌发作用相反及激素比值；脱落酸气孔和分裂作用待补。",
+          "additions": [
+            "supp-x1-aba-functions"
+          ],
+          "remaining_gaps": [
+            "赤霉素、细胞分裂素及乙烯的各合成部位与全套作用尚无逐项对应卡。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 5,
+          "section": 3,
+          "title": "植物生长调节剂的应用",
+          "pdf_pages": [
+            109,
+            110,
+            111,
+            112,
+            113
+          ],
+          "existing_note_ids": [
+            "1709447380193",
+            "1709447380203",
+            "1697380334489"
+          ],
+          "gap_summary": "已核对调节剂定义、浓度效应和预实验；补充正式实验的无关变量控制。",
+          "additions": [
+            "supp-x1-cutting-controls"
+          ],
+          "remaining_gaps": [
+            "浸泡/沾蘸方法适用条件及预实验到细梯度的完整设计仍需补题。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        },
+        {
+          "chapter": 5,
+          "section": 4,
+          "title": "环境因素参与调节植物的生命活动",
+          "pdf_pages": [
+            114,
+            115,
+            116,
+            117
+          ],
+          "existing_note_ids": [
+            "1709447499179",
+            "1709447606455",
+            "1709447606463"
+          ],
+          "gap_summary": "已核对光敏色素、春化与基因/激素/环境共同调控；光信号到基因表达的过程缺独立卡。",
+          "additions": [
+            "supp-x1-light-signalling"
+          ],
+          "remaining_gaps": [
+            "重力感受向生长素运输信号的转换机制及光周期曲线分析尚未覆盖。"
+          ],
+          "coverage_claim": "逐节核对已列核心主题；不是全教材知识点或高考迁移能力全覆盖"
+        }
+      ],
+      "new_cards": 20,
+      "sections_checked": 18
+    },
+    {
+      "book": 3,
+      "key": "x2",
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "种群的数量特征",
+          "pdf_pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "existing_note_ids": [
+            "1709448774428"
+          ],
+          "gap_summary": "样方法随机性及调查设计",
+          "additions": [
+            "supp-x2-random"
+          ],
+          "remaining_gaps": [
+            "标记重捕误差、样方计数实作"
+          ]
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "种群数量的变化",
+          "pdf_pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "existing_note_ids": [
+            "1709448774492"
+          ],
+          "gap_summary": "J形模型参数与定量应用",
+          "additions": [
+            "supp-x2-lambda"
+          ],
+          "remaining_gaps": [
+            "增长曲线计算、酵母菌计数实验"
+          ]
+        },
+        {
+          "chapter": 1,
+          "section": 3,
+          "title": "影响种群数量变化的因素",
+          "pdf_pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "existing_note_ids": [
+            "1710072992907"
+          ],
+          "gap_summary": "种内竞争对增长的限制",
+          "additions": [
+            "supp-x2-competition"
+          ],
+          "remaining_gaps": [
+            "捕食者与猎物数据分析"
+          ]
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "群落的结构",
+          "pdf_pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ],
+          "existing_note_ids": [
+            "1710075028066"
+          ],
+          "gap_summary": "生态位定义用词修订",
+          "additions": [
+            "supp-x2-niche"
+          ],
+          "remaining_gaps": [
+            "种间关系案例辨析、土壤动物调查"
+          ]
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "群落的主要类型",
+          "pdf_pages": [
+            42,
+            43,
+            44,
+            45,
+            46
+          ],
+          "existing_note_ids": [
+            "1714542739344"
+          ],
+          "gap_summary": "荒漠草原森林的主要环境条件",
+          "additions": [
+            "supp-x2-desert",
+            "supp-x2-grassland"
+          ],
+          "remaining_gaps": [
+            "不同类型生物的适应性结构比较"
+          ]
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "群落的演替",
+          "pdf_pages": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53
+          ],
+          "existing_note_ids": [
+            "1710076597841"
+          ],
+          "gap_summary": "演替不一定形成森林的适用边界",
+          "additions": [
+            "supp-x2-succession"
+          ],
+          "remaining_gaps": [
+            "裸岩和弃耕农田过程图分析"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "生态系统的结构",
+          "pdf_pages": [
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+          ],
+          "existing_note_ids": [
+            "1710078823990"
+          ],
+          "gap_summary": "分解者对象与现行教材一致",
+          "additions": [
+            "supp-x2-decomposer"
+          ],
+          "remaining_gaps": [
+            "食物网营养级综合判断"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "生态系统的能量流动",
+          "pdf_pages": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69
+          ],
+          "existing_note_ids": [
+            "1710078824009"
+          ],
+          "gap_summary": "第二营养级能量散失形式",
+          "additions": [
+            "supp-x2-respiration"
+          ],
+          "remaining_gaps": [
+            "能量收支、传递效率定量计算"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "生态系统的物质循环",
+          "pdf_pages": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "existing_note_ids": [
+            "1710684090393"
+          ],
+          "gap_summary": "有机物碳骨架与碳循环关联",
+          "additions": [
+            "supp-x2-carbon"
+          ],
+          "remaining_gaps": [
+            "碳循环图识别、生物富集数据推断"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 4,
+          "title": "生态系统的信息传递",
+          "pdf_pages": [
+            77,
+            78,
+            79,
+            80,
+            81
+          ],
+          "existing_note_ids": [
+            "1710684090453"
+          ],
+          "gap_summary": "种内与种间信息传递范围",
+          "additions": [
+            "supp-x2-information"
+          ],
+          "remaining_gaps": [
+            "农业防治的信息类型情境题"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 5,
+          "title": "生态系统的稳定性",
+          "pdf_pages": [
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ],
+          "existing_note_ids": [
+            "1697380456270"
+          ],
+          "gap_summary": "自我调节能力的限度",
+          "additions": [
+            "supp-x2-limit"
+          ],
+          "remaining_gaps": [
+            "生态缸实验与干扰程度比较"
+          ]
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "人类活动对生态环境的影响",
+          "pdf_pages": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98
+          ],
+          "existing_note_ids": [
+            "1711891131700"
+          ],
+          "gap_summary": "生态足迹数值含义",
+          "additions": [
+            "supp-x2-footprint"
+          ],
+          "remaining_gaps": [
+            "全球环境问题成因与解决措施"
+          ]
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "生物多样性及其保护",
+          "pdf_pages": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+          ],
+          "existing_note_ids": [
+            "1711891131714"
+          ],
+          "gap_summary": "易地保护定义与直接价值范围",
+          "additions": [
+            "supp-x2-exsitu",
+            "supp-x2-direct"
+          ],
+          "remaining_gaps": [
+            "栖息地碎片化及保护方案评估"
+          ]
+        },
+        {
+          "chapter": 4,
+          "section": 3,
+          "title": "生态工程",
+          "pdf_pages": [
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ],
+          "existing_note_ids": [
+            "1711891131747"
+          ],
+          "gap_summary": "农村工程三料循环实例",
+          "additions": [
+            "supp-x2-three-materials"
+          ],
+          "remaining_gaps": [
+            "矿区、湿地、城市工程方案比较"
+          ]
+        }
+      ],
+      "new_cards": 16,
+      "sections_checked": 14
+    },
+    {
+      "book": 4,
+      "key": "x3",
+      "sections": [
+        {
+          "chapter": 1,
+          "section": 1,
+          "title": "传统发酵技术的应用",
+          "pdf_pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "existing_note_ids": [
+            "1677380841768"
+          ],
+          "gap_summary": "已有发酵定义和传统发酵操作卡，本轮不重复添加",
+          "additions": [],
+          "remaining_gaps": [
+            "发酵过程对照实验及异常结果分析"
+          ]
+        },
+        {
+          "chapter": 1,
+          "section": 2,
+          "title": "微生物的培养技术及应用",
+          "pdf_pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "existing_note_ids": [
+            "1715005932573"
+          ],
+          "gap_summary": "现行消毒灭菌温度时间修订",
+          "additions": [
+            "supp-x3-pasteur",
+            "supp-x3-dryheat"
+          ],
+          "remaining_gaps": [
+            "平板划线、菌落计数的误差与计算"
+          ]
+        },
+        {
+          "chapter": 1,
+          "section": 3,
+          "title": "发酵工程及其应用",
+          "pdf_pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "existing_note_ids": [
+            "1681037776258"
+          ],
+          "gap_summary": "后发酵条件卡修复",
+          "additions": [
+            "supp-x3-postferment"
+          ],
+          "remaining_gaps": [
+            "发酵罐条件控制和产物分离流程"
+          ]
+        },
+        {
+          "chapter": 2,
+          "section": 1,
+          "title": "植物细胞工程",
+          "pdf_pages": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+          ],
+          "existing_note_ids": [
+            "1677995637900"
+          ],
+          "gap_summary": "激素名称与发育方向补缺",
+          "additions": [
+            "supp-x3-hormones"
+          ],
+          "remaining_gaps": [
+            "原生质体融合鉴别和培育流程分析"
+          ]
+        },
+        {
+          "chapter": 2,
+          "section": 2,
+          "title": "动物细胞工程",
+          "pdf_pages": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "existing_note_ids": [
+            "1677995637917"
+          ],
+          "gap_summary": "传代培养混合字段修复",
+          "additions": [
+            "supp-x3-passage"
+          ],
+          "remaining_gaps": [
+            "单克隆抗体多次筛选流程综合题"
+          ]
+        },
+        {
+          "chapter": 2,
+          "section": 3,
+          "title": "胚胎工程",
+          "pdf_pages": [
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+          ],
+          "existing_note_ids": [
+            "1677995637950"
+          ],
+          "gap_summary": "透明带反应时点与滋养层结局修订",
+          "additions": [
+            "supp-x3-zona",
+            "supp-x3-trophoblast"
+          ],
+          "remaining_gaps": [
+            "胚胎移植选择、胚胎分割图分析"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 1,
+          "title": "重组DNA技术的基本工具",
+          "pdf_pages": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+          ],
+          "existing_note_ids": [
+            "1679239872295"
+          ],
+          "gap_summary": "平末端连接效率的现行表述",
+          "additions": [
+            "supp-x3-ligase"
+          ],
+          "remaining_gaps": [
+            "酶切位点设计与DNA提取结果分析"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 2,
+          "title": "基因工程的基本操作程序",
+          "pdf_pages": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "existing_note_ids": [
+            "1679239872316"
+          ],
+          "gap_summary": "农杆菌条目纠正教材章节归属",
+          "additions": [
+            "supp-x3-agrobacterium"
+          ],
+          "remaining_gaps": [
+            "PCR引物方向、检测表达实验判读"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 3,
+          "title": "基因工程的应用",
+          "pdf_pages": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+          ],
+          "existing_note_ids": [
+            "1679813560416"
+          ],
+          "gap_summary": "重组人胰岛素实例纠偏",
+          "additions": [
+            "supp-x3-insulin"
+          ],
+          "remaining_gaps": [
+            "基因工程药物与农业应用比较"
+          ]
+        },
+        {
+          "chapter": 3,
+          "section": 4,
+          "title": "蛋白质工程的原理和应用",
+          "pdf_pages": [
+            102,
+            103,
+            104,
+            105,
+            106
+          ],
+          "existing_note_ids": [
+            "1679813560423"
+          ],
+          "gap_summary": "工程设计出发点短问答",
+          "additions": [
+            "supp-x3-design"
+          ],
+          "remaining_gaps": [
+            "由功能至基因的完整设计推理"
+          ]
+        },
+        {
+          "chapter": 4,
+          "section": 1,
+          "title": "转基因产品的安全性",
+          "pdf_pages": [
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "existing_note_ids": [
+            "1715513340035"
+          ],
+          "gap_summary": "产品评价条件和证据推理原则",
+          "additions": [
+            "supp-x3-evaluation",
+            "supp-x3-evidence"
+          ],
+          "remaining_gaps": [
+            "具体产品风险资料分析与论证"
+          ]
+        },
+        {
+          "chapter": 4,
+          "section": 2,
+          "title": "关注生殖性克隆人",
+          "pdf_pages": [
+            115,
+            116,
+            117,
+            118,
+            119
+          ],
+          "existing_note_ids": [
+            "1715513374241"
+          ],
+          "gap_summary": "克隆实验技术风险",
+          "additions": [
+            "supp-x3-clone-risk"
+          ],
+          "remaining_gaps": [
+            "人格尊严、家庭关系等伦理论证"
+          ]
+        },
+        {
+          "chapter": 4,
+          "section": 3,
+          "title": "禁止生物武器",
+          "pdf_pages": [
+            120,
+            121,
+            122
+          ],
+          "existing_note_ids": [],
+          "gap_summary": "原正式卡没有该节代表条目，补类别和反扩散立场",
+          "additions": [
+            "supp-x3-bioweapons",
+            "supp-x3-convention"
+          ],
+          "remaining_gaps": [
+            "历史材料辨析与公共生物安全防护讨论"
+          ]
+        }
+      ],
+      "new_cards": 16,
+      "sections_checked": 13
+    }
+  ],
+  "supplemental_notes": 87,
+  "supplemental_cards": 87,
+  "approved_cards_total": 1121,
+  "old_card_ids_preserved": 1034,
+  "chapter_corrections": 6,
+  "new_content_verification": "每张完整问答经AI对照当前官方电子教材核对；非教师认证。",
+  "remaining_gap_interpretation": "按节列出的待补内容包括实验实作、图表/定量分析、综合推理；代表卡不能证明全节或全部考点覆盖。"
+}
